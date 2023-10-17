@@ -119,5 +119,5 @@ The images offered as examples correspond to these criteria.
 Eno [https://github.com/enorart](https://github.com/enorart)
 
 # License
-hand-gesture-recognition-LSF is under [Apache v2 license](LICENSE)
+maze-generator-solver is under [Apache v2 license](LICENSE)
   
